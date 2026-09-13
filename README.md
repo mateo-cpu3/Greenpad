@@ -2,7 +2,7 @@
 
 ---
 
-It's special because it's green nothing else.
+It's special because it's green nothing else. this is my first macropad or engineering project so its not perfect but I spent a lot of time figuring everything out especially since I wanted it to be 3 x 3 not just 3 keys.
 
 ---
 
