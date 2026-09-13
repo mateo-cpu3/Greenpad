@@ -2,7 +2,15 @@
 
 ---
 
-It's special because it's green nothing else. this is my first macropad or engineering project so its not perfect but I spent a lot of time figuring everything out especially since I wanted it to be 3 x 3 not just 3 keys.
+It's special because it's green nothing else. this is my first macropad or engineering project in general so its not perfect, but I did spend a lot of time figuring everything out especially since I wanted it to be 3 x 3 not just 3 keys. 
+
+---
+
+# Challenges 
+
+
+
+literally everything I had to restart because I didn't know you had to space the keys 19.05mm and ended messing everything up because I couldn't figure out why it didn't align with the case I also found the fusion interface super confusing, my mouse wheel broke halfway so zooming in and out was a pain
 
 ---
 
