@@ -1,4 +1,4 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","","","","","","${EXCLUDE_FROM_POS_FILES}","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",""
-"S1,S2,S3,S4,S5,S6,S7,S8,S9","9","","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","","${EXCLUDE_FROM_POS_FILES}","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
+"Reference","Qty","Value","DNP","Footprint","Datasheet","#"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","1N4148 Diodes ","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","","1"
+"S1,S2,S3,S4,S5,S6,S7,S8,S9","9","SW_Cherry_MX_1.00u_PCB","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","","2"
+"U1","1","Seeed_XIAO_RP2040","","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM","","3"
